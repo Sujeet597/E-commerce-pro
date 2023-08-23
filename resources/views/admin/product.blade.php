@@ -61,13 +61,6 @@
                                         <span class="text-danger">{{$errors->first('catagory')}}</span>
                                         @endif
                                     </div>
-                                    <div class="from-group">
-                                        <label>DropDown</label>
-                                        <select name="dropDown" class="from-control">
-                                           <option>Php Developer</option>
-                                           
-                                        </select>
-                                    </div>
 
                                     <div class="form-group ">
                                         <label>Product Quantity</label>
